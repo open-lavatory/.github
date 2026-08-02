@@ -14,7 +14,6 @@
 <p align="center">
     <a href="https://openlv.sh"><img src="https://img.shields.io/badge/Documentation-openlv.sh-orange?style=flat" alt="Documentation: openlv.sh"></a>
     <a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-blue?style=flat" alt="Status: In Development"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-blue?style=flat" alt="Status: In Development"></a>
     <a href="#"><img src="https://img.shields.io/badge/Translations-9-blue?style=flat&color=4bdbe3" alt="Translations: 9"></a>
     <a href="#"><img src="https://img.shields.io/badge/License-LGPL--3.0-hotpink?style=flat" alt="License: LGPL-3.0"></a>
 </p>
@@ -28,6 +27,11 @@
 - Peer-to-peer transport via WebRTC (or other [transport layers](https://openlv.sh/api/transport))
 - Reuse of existing infrastructure and p2p standards
 - User control over connection & configuration
+
+## Documentation
+
+Read [the documentation](https://openlv.rs) for how it works, how to use it, and more.
+Or [read it directly on github](https://github.com/open-lavatory/open-lavatory/tree/master/docs).
 
 ## Implementations
 
